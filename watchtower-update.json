@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "product": "lineagem-watchtower",
+    "schema": 1,
+    "min_launcher": 2,
+    "version": "2.2.6",
+    "url": "https://github.com/bluesky3939889/RadarMonitor/releases/download/v2.2.6/SkyNetClient.exe",
+    "size": 32691344,
+    "sha256": "4ad7c148aaf60c8d5fd56b5c394c02fb4110491ec4b7f6f683475074a79ca244",
+    "format": "exe",
+    "role": "client"
+  },
+  "signature": "nc5GwGrU9pRiMLL1/msZoJK2JYtn+674yA4LStYJfxajRnz/zBmL2EMWXOISsKaboZtkiCBFBmkR1Xr5CbBGDg=="
+}
